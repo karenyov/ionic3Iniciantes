@@ -4,6 +4,8 @@ Código realizado no curso [Ionic 3 para iniciantes](https://www.udemy.com/ionic
 ## Requisitos
 * [Node.js](https://nodejs.org/).
 * Instalar ionic CLI: `npm install -g ionic`
+
+## Executando
 * Run `npm install`
 * Run `ionic serve`.
 
